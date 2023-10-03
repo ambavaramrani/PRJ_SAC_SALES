@@ -1,0 +1,7 @@
+{
+  "PRJ_SAC_SALES.db::MARC": {
+    "target": {
+      "object": "VT_MARC"
+    }
+  }
+}

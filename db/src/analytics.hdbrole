@@ -1,0 +1,12 @@
+{
+    "role": {
+        "name": "PRJ_SAC_SALES.db::analytics",
+        "schema_privileges": [
+            {
+                "privileges": [
+                    "SELECT"
+                ]
+            }
+        ]
+    }
+}

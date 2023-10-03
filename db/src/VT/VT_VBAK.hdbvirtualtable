@@ -1,0 +1,14 @@
+VIRTUAL TABLE "VT_VBAK" AT "RS_ABAP"."ABAPTABLES"."<NULL>"."ABAPTABLES.VBAK"
+REMOTE PROPERTY 'dataprovisioning_parameters'='<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Parameters>
+  <Parameter name="FORCE_FILENAME_PATTERN">%.csv</Parameter>
+  <Parameter name="FORMAT">CSV</Parameter>
+  <Parameter name="CODEPAGE">utf-8</Parameter>
+  <Parameter name="LOCALE">en_US</Parameter>
+  <Parameter name="SKIP_HEADER_LINES">0</Parameter>
+  <Parameter name="ROW_DELIMITER">\n</Parameter>
+  <Parameter name="COLUMN_DELIMITER">,</Parameter>
+  <Parameter name="QUOTED_TEXT_CONTAIN_ROW_DELIMITER">false</Parameter>
+  <Parameter name="EXPONENTIAL">E</Parameter>
+  <Parameter name="LENIENT">true</Parameter>
+</Parameters>';
